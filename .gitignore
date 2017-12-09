@@ -1,0 +1,11 @@
+clothsimV2.vcxproj
+clothsimV2.vcxpro
+clothsimV2
+clothsimV2.vcxproj.filters
+clothsimV2.vcxproj.user
+SDL2.dll
+
+/Release/
+/Debug/
+glew.h
+glew.c
